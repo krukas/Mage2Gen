@@ -1,4 +1,6 @@
 
+**The main repository is moved to https://github.com/Mage2Gen/Mage2Gen**
+
 .. image:: https://travis-ci.org/krukas/Mage2Gen.svg?branch=master
     :target: https://travis-ci.org/krukas/Mage2Gen
     
